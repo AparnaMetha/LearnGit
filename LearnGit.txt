@@ -5,3 +5,5 @@ Change branch 1
 Change in master
 
 Change for defect 2 
+
+Defect 3
