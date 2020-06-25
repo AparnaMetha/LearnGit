@@ -2,4 +2,6 @@ Test GIT
 
 Change branch 1
 
-CHange in master
+Change in master
+
+Change for defect 2 
