@@ -1,3 +1,5 @@
 Test GIT
 
 Change branch 1
+
+CHange in master
