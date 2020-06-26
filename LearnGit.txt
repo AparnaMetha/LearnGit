@@ -7,3 +7,4 @@ Change in master
 Change for defect 2 
 
 Defect 3
+Change to Local and push to Remote
