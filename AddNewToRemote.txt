@@ -1,3 +1,6 @@
 Add New Remotes
 
 Changes made at remote reegistry
+
+
+Added conflicting changes at remote
